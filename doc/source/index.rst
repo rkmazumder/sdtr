@@ -1,5 +1,5 @@
-.. figure:: sdtr/doc/figures/logo.png
-   :scale: 100 %
+.. figure:: ../doc/figures/logo.png
+   :scale: 50 %
    :alt: Logo
    
 The Water Network Tool for Resilience (WNTR) is an EPANET compatible Python package 
