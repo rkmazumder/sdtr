@@ -1,4 +1,4 @@
-.. figure:: ../doc/figures/logo.png
+.. figure:: figures/logo.png
    :scale: 50 %
    :alt: Logo
    
