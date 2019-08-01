@@ -1,4 +1,4 @@
-osmnx package
+SDATWI package
 =============
 
 Submodules
