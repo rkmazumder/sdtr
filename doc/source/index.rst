@@ -1,4 +1,4 @@
-.. figure:: doc/figures/logo.png
+.. figure:: sdtr/doc/figures/logo.png
    :scale: 100 %
    :alt: Logo
    
